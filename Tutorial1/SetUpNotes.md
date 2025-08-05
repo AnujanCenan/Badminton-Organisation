@@ -27,3 +27,8 @@ In tsconfig.json file had to add
         (...)
     }
 
+
+Downloaded Extension **ES7+ React/Redux/React-Native snippets**
+Essentially uses React-Native specific shortcuts for productivity
+
+- **rnfe**: produces basic component template
