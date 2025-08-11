@@ -25,7 +25,8 @@ const styles = StyleSheet.create({
     color: "white",
     fontSize: 42,
     fontWeight: "bold",
-    textAlign: "center"
+    textAlign: "center",
+    backgroundColor: "rgba(255, 0, 0, 0.5)"
   },
   image: {
     width: "100%",
